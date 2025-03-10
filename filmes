@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FILMES</title>
+        <body>
+            <h1>ARTHUR FILMES</h1>
+<i><p> Uma lista assim é bem difícil de se fazer, principalmente de ordenar. Essa lista foi baseada tanto nas experiências que eu tive assistindo esses filmes, quanto as experiências que eu tive discutindo sobre eles com meus amigos. Espero que gostem da lista!
+
+</p>
+<ol reversed start="6">
+    <li>SLC Punk!
+        <a href="https://pt.wikipedia.org/wiki/SLC_Punk!" target="_blank">Wikipedia SLC Punk! (nova aba)</a>
+    </li>
+    <li>Legalize Já!
+        <a href="https://pt.wikipedia.org/wiki/Legalize_J%C3%A1_-_Amizade_Nunca_Morre" target="_blank">Wikipedia Legalize Já (nova aba)</a>
+    </li>
+    <li>Ainda Estou Aqui
+        <a href="https://pt.wikipedia.org/wiki/Ainda_Estou_Aqui_(filme_de_2024)" target="_blank">Wikipedia Ainda Estou Aqui (nova aba)</a>
+    </li>
+    <li>Escola de Rock
+        <a href="https://pt.wikipedia.org/wiki/Escola_de_Rock" target="_blank">Wikipedia Escola de Rock (nova aba)</a>
+    </li>
+    <li>Trilogia Senhor dos Anéis*</li>
+    <a href="https://pt.wikipedia.org/wiki/O_Senhor_dos_An%C3%A9is_(s%C3%A9rie_de_filmes)" target="_blank">Wikipedia Senhor dos Anéis (nova aba)</a>
+    <li>Kill Bill (vol 1 e 2)*
+        <a href="https://pt.wikipedia.org/wiki/Kill_Bill" target="_blank">Wikipedia Kill Bill (nova aba)</a>
+    </li>
+</ol></i>
+<meta charset="UTF-8">
+    <title>Imagem como Link</title>
+</head>
+<body>
+    <h1>Galeria:</h1>
+    <a href="https://www.google.com" target="_blank">
+        <img src="https://resizing.flixster.com/i2KmatGFs6K4-2y25GzpGb4J248=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22955_v_v9_ab.jpg" alt="SLC Punk" width="10%" height="10%">
+    </a>
+    <a href="https://www.google.com" target="_blank">
+        <img src="https://cdn.atarde.com.br/img/2018/08/724x0/cinema-legalize-ja-o-filme_201882816165353-1.webp?fallback=https%3A%2F%2Fcdn.atarde.com.br%2Fimg%2F2018%2F08%2Fcinema-legalize-ja-o-filme_201882816165353.jpg%3Fxid%3D4318330&xid=4318330" alt="Legalize Já" width="10%" height="10%">
+    </a>
+    <a href="https://www.google.com" target="_blank">
+        <img src="https://s2-oglobo.glbimg.com/o_sX_6GA3bMxZppN8LhnvPPbc5Q=/0x0:3500x5045/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2025/t/P/9m06SoSJaBOGfwTfpwnw/ish-1-sheet-portugal.jpg" alt="Ainda Estou Aqui" width="10%" height="10%">
+    </a>
+
+    <a href="https://www.google.com" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHiyPPbMN_dvqYteZPXgPt9uf7AtSa1DBy7A&s" alt="Escola de Rock" width="10%" height="10%">
+    </a>
+    <a href="https://www.google.com" target="_blank">
+        <img src="https://atlasgeek.com.br/wp-content/uploads/2024/07/Trilogia-senhor-dos-aneis.png" alt="Trilogia Senhor dos anéis" width="30%" height="30%">
+    </a>
+    <a href="https://www.google.com" target="_blank">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLuauKYu2o5q05UALSOXji0OOsvw7ChLB0EFfohPv9ql9-uB44TD40YEWn3bEi3znIV6GWETmOXoiGxJMoGkX8kNxe-_yYzCJdy-vOvR68lV92dH8FTHszRO36CY9FcKWVn6H1GMVtrnM/s1600/kill+bill.png" alt="Kill Bill Vol. 1 e 2" width="30%" height="30%">
+    </a>
+<h5>*Esses são mais de um filme apenas se você for fraco, e lhe faltar ódio.</h1> 
+           
+</body>
+    </head>
+</html>
